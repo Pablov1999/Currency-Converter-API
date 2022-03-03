@@ -12,7 +12,8 @@ body{
     justify-content: center;
     min-height: 100vh;
     padding: 0 10px;
-    background: #3654b9;
+    background: #000046;
+    background: linear-gradient(to right, #1bd880, #15b6d3); 
   }
 
   ::selection{
